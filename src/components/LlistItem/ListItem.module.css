@@ -53,3 +53,11 @@
     visibility: visible;
     opacity: 1;
 }
+
+.green {
+    color: green;
+}
+
+.red {
+    color: red;
+}
